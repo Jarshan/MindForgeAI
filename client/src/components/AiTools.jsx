@@ -28,6 +28,8 @@ const AiTools = () => {
                     ${tool.bg.to})`}}/>
                     <h3 className='mt6 mb-3 text-lg font-semibold'>{tool.title}</h3>
                     <p className='text-gray-400 text-sm max-w-[95%]'>{tool.description}</p>
+                    
+
 
                 </div>
             ))}
